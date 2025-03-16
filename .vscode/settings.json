@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "main.h": "c"
+    },
+    "cmake.sourceDirectory": "E:/WorkSpace/Test_project/STM32F4MN28016VFD/Drivers/CMSIS/DSP/Source/ControllerFunctions"
+}
